@@ -141,8 +141,6 @@ public class AddSMProfileDetails extends AppCompatActivity implements AdapterVie
             selectedSocialProfile = null;
         }
 
-//            Toast.makeText(AddSMProfileDetails.this, spinner.getSelectedItem().toString(), Toast.LENGTH_LONG).show();
-
     }
 
     @Override
