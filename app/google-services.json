@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "858457071128",
+    "firebase_url": "https://socialmedialikes-4845d.firebaseio.com",
+    "project_id": "socialmedialikes-4845d",
+    "storage_bucket": "socialmedialikes-4845d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858457071128:android:25f554bdc8f9443b6bed6d",
+        "android_client_info": {
+          "package_name": "com.app.socialmedialikes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858457071128-c9f87pbndh5hrpjmfog68c5aqkc6l575.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.socialmedialikes",
+            "certificate_hash": "0558ca806a2e05357248d8509743778f12354b58"
+          }
+        },
+        {
+          "client_id": "858457071128-3tqplvqr76nik42cn7jvlm2rbkrulrk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFOTXHU144SVewKEUFMMICQRsL38UGRXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858457071128-3tqplvqr76nik42cn7jvlm2rbkrulrk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

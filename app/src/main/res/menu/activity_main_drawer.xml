@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_watch_n_earn"
+            android:icon="@drawable/watch_n_earn"
+            android:title="@string/menu_watch_n_earn" />
+        <item
+            android:id="@+id/nav_reward_history"
+            android:icon="@drawable/ic_menu_history"
+            android:title="@string/menu_reward_history" />
+        <item
+            android:id="@+id/nav_sm_profiles"
+            android:icon="@drawable/social"
+            android:title="@string/social_media_profiles" />
+    </group>
+
+    <!--    <item android:title="@string/nav_menu_group_communicate">-->
+    <!--        <menu>-->
+
+    <!--&lt;!&ndash;            <item&ndash;&gt;-->
+    <!--&lt;!&ndash;                android:id="@+id/nav_send"&ndash;&gt;-->
+    <!--&lt;!&ndash;                android:icon="@drawable/ic_menu_send"&ndash;&gt;-->
+    <!--&lt;!&ndash;                android:title="@string/Settings" />&ndash;&gt;-->
+
+    <!--            <item-->
+    <!--                android:id="@+id/nav_share"-->
+    <!--                android:icon="@drawable/ic_menu_share"-->
+    <!--                android:title="@string/menu_share" />-->
+
+    <!--        </menu>-->
+    <!--    </item>-->
+
+</menu>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+    <color name="colorAccent">#03A9F4</color>
+    <color name="circleColor">#ffffff</color>
+    <color name="green">#008000</color>
+    <color name="blue">#0000FF</color>
+    <color name="colorBlack">#000000</color>
+    <!--    2196F3   -->
+
+    <!--    Dark Mode Colors     -->
+    <color name="backgroundDark">#222222</color>
+    <color name="textColorDark">#ffffff</color>
+    <color name="colorStateDark">@color/edittextcolor_dark</color>
+
+
+    <!--    Light Mode Colors     -->
+    <color name="backgroundLight">#FAFAFA</color>
+    <color name="textColorLight">#808080</color>
+    <color name="colorStateLight">@color/edittextcolor_light</color>
+
+    <color name="titleColor">#212121</color>
+    <color name="backgroundColor">#ffffff</color>
+
+
+</resources>
